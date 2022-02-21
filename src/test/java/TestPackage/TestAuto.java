@@ -6,8 +6,7 @@ public class TestAuto {
 	
 		System.out.println("TestAUTO");
 
-		
-		// Test
+		System.out.println("TestAutomationTOOLS");
 	}
 
 }
