@@ -15,6 +15,8 @@ public class TestSelenium {
 			
 			System.out.println("Not Prime");
 		}
+		
+		// Test Automated
 
 	}
 
