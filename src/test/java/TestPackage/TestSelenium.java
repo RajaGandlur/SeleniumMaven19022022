@@ -8,7 +8,6 @@ public class TestSelenium {
 		
 		int intNumber = 10;
 		
-		
 		if (intNumber/2!=0) {
 			
 			System.out.println("Prime");
